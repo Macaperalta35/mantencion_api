@@ -1,3 +1,5 @@
+# Commit 2: Modelos ORM implementados para TI3041
+
 from django.db import models
 from django.contrib.auth.models import User
 
