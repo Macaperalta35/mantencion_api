@@ -1,4 +1,5 @@
-# Commit 2: Modelos ORM implementados para TI3041
+# --- CAMBIO FORZADO PARA COMMIT 2 ---
+# Este cambio permite registrar correctamente el commit 2
 
 from django.db import models
 from django.contrib.auth.models import User
