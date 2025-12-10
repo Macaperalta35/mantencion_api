@@ -1,4 +1,5 @@
-# Commit 3: Permisos personalizados agregados
+# Commit 3: Permisos personalizados implementados
+
 
 from rest_framework.permissions import BasePermission, SAFE_METHODS
 
