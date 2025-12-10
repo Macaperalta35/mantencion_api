@@ -1,3 +1,5 @@
+# Commit 3: Permisos personalizados agregados
+
 from rest_framework.permissions import BasePermission, SAFE_METHODS
 
 class ReadOnlyForUnauthenticated(BasePermission):

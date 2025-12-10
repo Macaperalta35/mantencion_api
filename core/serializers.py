@@ -1,3 +1,5 @@
+# Commit 3: Serializers implementados
+
 from rest_framework import serializers
 from .models import Empresa, Equipo, Tecnico, PlanMantencion, OrdenTrabajo
 
